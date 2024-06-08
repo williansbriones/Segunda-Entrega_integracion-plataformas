@@ -84,7 +84,7 @@ Si deseas contribuir, por favor sigue los siguientes pasos:
 4. Haz un push a la rama (git push origin feature/nueva-característica)
 5. Abre un Pull Request y describe los cambios propuestos
 6. Espera a que tu Pull Request sea revisado y aceptado
-7. 
+
 ¡Gracias por contribuir! Si tienes alguna duda, puedes contactar a los integrantes del equipo.
 
 ## Licencia
