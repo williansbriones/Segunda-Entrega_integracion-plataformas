@@ -15,21 +15,25 @@ Conoce a nuestro increíble equipo de desarro de ferremas:
     <th></th>
     <th></th>
     <th></th>
+    <th></th>
   </tr>
   <tr>
     <td>Matias Fontalba</td>
     <td><img src="https://avatars.githubusercontent.com/u/107446621?v=4"  alt="foto-mati" width="50" height="50" style="border-radius: 50%;"></td>
     <td>Desarrollador back</td>
+     <td><a href="https://github.com/MatiasFontalba">GitHub</a></td>
 </tr>
   <tr>
     <td>Francisco Arias</td>
     <td><img src="https://avatars.githubusercontent.com/u/107446720?v=4" alt="foto-pancho" width="50" height="50" style="border-radius: 50%;"></td>
     <td>Desarrollador front</td>
+     <td><a href="https://github.com/FranciscoAriasZa">GitHub</a></td>
   </tr>
   <tr>
     <td>Willians Briones</td>
     <td><img src="https://avatars.githubusercontent.com/u/107446673?v=4" alt="foto-willy" width="50" height="50" style="border-radius: 50%;"></td>
     <td>Desarrollador back</td>
+     <td><a href="https://github.com/williansbriones">GitHub</a></td>
   </tr>
 </table>
 
